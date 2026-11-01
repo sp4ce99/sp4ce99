@@ -3,8 +3,4 @@
 * 💾 [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a **Mozilla Firefox** add-on*
 * 🕹 [My STEAM profile](https://steamcommunity.com/profiles/76561197987715119)
 
-#html #css #javascript  
-#vuejs #nuxt #tailwindcss  
-#django #python #affinity 
-
 *(whispering)* [Mozilla Firefox](https://github.com/sp4ce99/classic-tabs-firefox) is the best browser
